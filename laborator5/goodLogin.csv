@@ -1,0 +1,6 @@
+username,password,works,
+standard_user,secret_sauce,1,
+locked_out_user,secret_sauce,0,
+problem_user,secret_sauce,1,
+performance_glitch_user,secret_sauce,1,
+standard_user,secret_sace,0,

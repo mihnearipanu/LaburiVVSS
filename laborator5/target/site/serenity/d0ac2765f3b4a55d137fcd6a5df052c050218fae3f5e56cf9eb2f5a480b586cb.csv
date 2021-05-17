@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Log in good","SUCCESS","2021-05-10T21:23:28.5853542+03:00[Europe/Bucharest]","0.0","33.3"
+"Login","Log in","SUCCESS","2021-05-10T23:19:24.4383629+03:00[Europe/Bucharest]","0.0","31.33"
+"Scenario","Scenario","SUCCESS","2021-05-10T23:19:34.1534937+03:00[Europe/Bucharest]","0.0","10.61"
